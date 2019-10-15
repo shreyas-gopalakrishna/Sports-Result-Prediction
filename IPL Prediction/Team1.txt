@@ -1,0 +1,33 @@
+Batting
+LMP Simmons
+Rohit Sharma
+Hardik Pandya
+George Bailey
+Ambati Rayudu
+Kieron Pollard
+Shreyas Gopal
+Harbhajan Singh
+Vinay Kumar
+Mitchell McCleanghan
+Jasprit Bumrah
+Bowling
+Mitchell McCleanghan
+Jasprit Bumrah
+Mitchell McCleanghan
+Jasprit Bumrah
+Mitchell McCleanghan
+Jasprit Bumrah
+Vinay Kumar
+Shreyas Gopal
+Vinay Kumar
+Harbhajan Singh
+Shreyas Gopal
+Harbhajan Singh
+Shreyas Gopal
+Harbhajan Singh
+Hardik Pandya
+Harbhajan Singh
+Hardik Pandya
+Shreyas Gopal
+Mitchell McCleanghan
+Jasprit Bumrah

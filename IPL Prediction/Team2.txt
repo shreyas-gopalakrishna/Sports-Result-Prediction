@@ -1,0 +1,33 @@
+Batting
+Ajinkya Rahane
+Faf du Plessis
+Kevin Pietersen
+Steven Smith
+MS Dhoni
+Thisara Perera
+Rajat Bhatia
+Ravichandran Ashwin
+Irfan Pathan
+Ishant Sharma
+Ashok Dinda
+Bowling
+Ashok Dinda
+Ishant Sharma
+Ashok Dinda
+Ishant Sharma
+Irfan Pathan
+Ishant Sharma
+Irfan Pathan
+Rajat Bhatia
+Irfan Pathan
+Rajat Bhatia
+Thisara Perera
+Rajat Bhatia
+Thisara Perera
+Rajat Bhatia
+Thisara Perera
+Ravichandran Ashwin
+Thisara Perera
+Irfan Pathan
+Ashok Dinda
+Ishant Sharma
